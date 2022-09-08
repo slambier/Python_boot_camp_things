@@ -1,5 +1,6 @@
 i = 0
 
+# Loops if you get a tie or input something wrong, ends if someone wins
 while i == 0:
     i = 1
     person1 = input("Person 1 -- Enter rock, paper, or scissors: ").lower()
